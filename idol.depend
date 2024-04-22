@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1713813908 source:e:\informatyka\codeblocks projekty\idol\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
